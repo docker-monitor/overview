@@ -24,7 +24,7 @@
 * run noder-agent
 > please go to [node-agent](https://github.com/docker-monitor/node-agent), flow the doc to setup and run it.
 
-Later will post some video to show how to setup, before it`s coming, if you have any issues , please contract me, I`m happy to hear your voice.
+Later will post some video to show how to setup, before it is coming, if you have any issues , please contract me, I am looking forward to hearing your voice.
 
 email: david.guo18@yahoo.com/lose.start.david.guo@gmail.com
 
