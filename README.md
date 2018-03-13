@@ -26,7 +26,10 @@
 
 Later will post some video to show how to setup, before it`s coming, if you have any issues , please contract me, I`m happy to hear your voice.
 
+email: david.guo18@yahoo.com/lose.start.david.guo@gmail.com
+
 wechat:
+
 ![Gopher image](images/wechat.jpg)
 
-email: david.guo18@yahoo.com/lose.start.david.guo@gmail.com
+
