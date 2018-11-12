@@ -26,7 +26,7 @@
 
 Later will post some video to show how to setup, before it is coming, if you have any issues , please contract me, I am looking forward to hearing your voice.
 
-email: david.guo18@yahoo.com/lose.start.david.guo@gmail.com
+Email: david.guo18@yahoo.com/lose.start.david.guo@gmail.com
 
 
 
